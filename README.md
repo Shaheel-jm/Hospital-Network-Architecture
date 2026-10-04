@@ -13,7 +13,7 @@ The architecture follows a hybrid design, hosting application services in the cl
 
 ## Network design
 <p align="center">
-  <img src="Network%20Design.png" width=75%>
+  <img src="Network%20Design.jpg" width=75%>
 </p>
 
 ___
